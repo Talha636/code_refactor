@@ -13,9 +13,9 @@ SO THAT our own site is optimized for search engines
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
-<!-- THEN I find semantic HTML elements -->
+THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
-<!-- THEN I find that the elements follow a logical structure independent of styling and positioning -->
+THEN I find that the elements follow a logical structure independent of styling and positioning
 WHEN I view the icon and image elements
 THEN I find accessible alt attributes
 WHEN I view the heading attributes
@@ -49,7 +49,5 @@ https://talha636.github.io/code_refactor/
 ### Repository Quality: 13%
 
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
 
 * Repository contains quality README file with description, screenshot

@@ -1,3 +1,4 @@
+/* Page Style */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Header Styling and Formatting */
 
 .header {
     padding: 20px;
@@ -41,6 +44,8 @@ body {
     margin-left: 25px;
 }
 
+/* Non heading text styling */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +55,8 @@ p {
     font-size: 16px;
 }
 
+/* Hero */
+
 .hero img {
     height: 800px;
     width: 100%;
@@ -57,6 +64,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Main content styles */
 
 .float-left {
     float: left;
@@ -92,6 +101,8 @@ p {
     font-size: 36px;
 }
 
+/* Aside menu styles */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +129,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer styles */
 
 .footer {
     padding: 30px;
