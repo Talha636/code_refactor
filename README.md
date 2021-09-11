@@ -31,23 +31,10 @@ The following image shows the web application's appearance and functionality:
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
 
 
-## Screenshot
-
-
 ## Deployed Link
 
 https://talha636.github.io/code_refactor/
 
+## Screenshot
 
-
-
-### Technical Acceptance Criteria: 40%
-
-
-  * Application's CSS file is properly commented.
-
-### Repository Quality: 13%
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains quality README file with description, screenshot
+<img src='./assets/images/Screen Shot 1'>

@@ -138,3 +138,41 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
+/* Web responsiveness */
+
+@media screen and (max-width: 1015px) {
+    .header {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .content {
+        width: 95%;
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 20px;
+    }
+    .benefits {
+        width: 95%;
+    }
+    .benefit-info {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+}
+@media screen and (max-width: 740px) {
+    .content-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 400px;
+    }
+    .content img {
+        max-height: 300px;
+        max-width: 300px;
+    }
+}
