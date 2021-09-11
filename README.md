@@ -24,17 +24,14 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Mock-Up
-
-The following image shows the web application's appearance and functionality:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
-
-
 ## Deployed Link
 
 https://talha636.github.io/code_refactor/
 
 ## Screenshot
 
-<img src='./assets/images/Screen Shot 1'>
+<img width="1440" alt="Screen Shot 1" src="https://user-images.githubusercontent.com/85548877/132930236-c1468b3f-57bc-4e8a-8163-468f0a9622dc.png">
+
+<img width="1440" alt="Screen Shot 2" src="https://user-images.githubusercontent.com/85548877/132930235-8654931a-80f3-4512-bd7f-2e7d34daa33e.png">
+
+<img width="1440" alt="Screen Shot 3" src="https://user-images.githubusercontent.com/85548877/132930234-f3556c9a-9ea5-4543-88a9-0c30aaa42750.png">
